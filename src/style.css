@@ -1,14 +1,13 @@
 .form-field {
   display: block;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .form-field-cats {
   display: inline-block;
-  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .groups {
   margin-bottom: 20px;
-  padding-bottom: 0;
 }
